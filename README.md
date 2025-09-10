@@ -28,7 +28,7 @@ Output: English caption
 
 Based on ClipCap (CLIP + GPT-2).
 
-Example:
+- Example:
 
 Input image → “A man riding a horse on the beach.”
 
@@ -42,7 +42,7 @@ Step 2: Translate caption into Farsi with SeamlessM4T.
 
 Output: Captions in both English and Farsi.
 
-Example:
+- Example:
 
 Input image → EN: “A man riding a horse on the beach.”
 
