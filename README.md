@@ -2,6 +2,8 @@
 
 This repository explores the intersection of vision and language using three different model setups. The goal is to not only generate captions for images but also make them accessible to Farsi (Persian) speakers through translation.
 
+- Paper: https://arxiv.org/abs/2111.09734
+
 # 🔹 Model 1: Translation-Model
 
 This model focuses only on text translation.
